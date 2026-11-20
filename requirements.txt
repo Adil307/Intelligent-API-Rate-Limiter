@@ -1,0 +1,4 @@
+# Minimal dependencies for the local prototype.
+# FastAPI/Uvicorn exact tested versions were not recorded; see local pip freeze.
+fastapi[standard]
+redis==8.1.0
